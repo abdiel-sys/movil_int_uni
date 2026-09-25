@@ -2,7 +2,7 @@
 
 **Instrucciones de uso:**
 
-1. Lee detenidamente el archivo `requerimientos_proyecto.json`.
+1. Lee detenidamente el archivo [requerimientos_proyectos.json](./requerimientos_proyectos.json) .
 2. Asigna una **Calificación (del 1 al 5)** a cada framework por cada criterio, donde 1 es "Deficiente/Inviable" y 5 es "Excelente/Óptimo".
 3. Multiplica la Calificación por el **Peso** asignado para obtener el **Puntaje Ponderado**.
 4. Suma los puntajes ponderados en la última fila para descubrir el framework ganador.
@@ -14,7 +14,7 @@
 | **3. Capacidades de Hardware (GPS en 2do plano)**<br>*(Acceso a APIs del sistema de forma eficiente)* | **4** | Calificación: **5**<br>Puntaje:**20** | Calificación: **4**<br>Puntaje:**16** | Calificación: **4**<br>Puntaje:**16** |
 | **4. Rendimiento de UI**<br>*(Animaciones de mapas y fluidez general)* | **3** | Calificación: **15**<br>Puntaje:**15** | Calificación: **4**<br>Puntaje:**12** | Calificación: **5**<br>Puntaje:**15** |
 | **5. Ecosistema y Mantenimiento**<br>*(Disponibilidad de librerías para cámara, mapas, etc.)* | **3** | Calificación: **5**<br>Puntaje:**15** | Calificación: **5**<br>Puntaje:**15** | Calificación: **4**<br>Puntaje:**12** |
-| **PUNTAJE TOTAL** | -- | **Total Nativo: **60** | **Total React Native: **93** | **Total Flutter: **78** |
+| **PUNTAJE TOTAL** | -- | **Total Nativo**: **60** | **Total React Native**: **93** | **Total Flutter**: **78** |
 
 ---
 

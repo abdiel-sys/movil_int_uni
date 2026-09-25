@@ -20,8 +20,6 @@
 
 ## Validación de Viabilidad Tecnológica
 
-Basado en el ganador de la matriz, investiga en la documentación oficial o repositorios comunitarios populares (NPM, pub.dev, CocoaPods, etc.) los paquetes que resolverán los requerimientos críticos.
-
 **Framework Ganador:** React Native
 
 **1. Solución para GPS en segundo plano:**
